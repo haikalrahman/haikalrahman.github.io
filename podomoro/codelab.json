@@ -1,0 +1,38 @@
+{
+  "environment": "web",
+  "source": "1010LwpsZ9KLtygNcm_wck8XNpnEJgMYiYLVPHmOz9V8",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2019-04-18T10:32:19Z",
+  "id": "podomoro",
+  "duration": 8,
+  "title": "🚧 Podomoro",
+  "author": "Haikal Rahman",
+  "summary": "podomoro",
+  "theme": "web",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "Web"
+  ],
+  "tags": [
+    "cds17",
+    "chrome-dev-summit-2016",
+    "devfest18",
+    "gdd17",
+    "io2016",
+    "io2017",
+    "io2018",
+    "jsconfeu",
+    "kiosk",
+    "pwa-dev-summit",
+    "pwa-roadshow",
+    "tag-web",
+    "typtwd17",
+    "web"
+  ],
+  "feedback": "https://haikalrahman.blearning.id/disqus",
+  "url": "podomoro"
+}
